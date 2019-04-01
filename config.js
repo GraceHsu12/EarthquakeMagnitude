@@ -1,0 +1,2 @@
+// API key for MAPBOX/LEAFLET
+const API_KEY = "ENTERKEY";
